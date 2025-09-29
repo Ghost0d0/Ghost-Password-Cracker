@@ -12,6 +12,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 📜 Youtube
+https://youtu.be/xWuJ8SAN0D8
+
 ## ✨ Features
 
 | Feature | Description |
